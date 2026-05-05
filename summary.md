@@ -10,3 +10,4 @@ Urban commuters, students, professionals.
 - Real-time ride booking
 - GPS tracking
 - Secure payments
+- Driver rating system
